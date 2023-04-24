@@ -726,3 +726,6 @@ input의 checkbox가 수평으로 맞지않을때 vertical-align:-2px;
 .footer li:first-child:before {
   width: 0; height: 0;
 }
+.footer .w3c {
+  margin-top: 15px;
+}
